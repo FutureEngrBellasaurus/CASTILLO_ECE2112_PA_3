@@ -1,5 +1,5 @@
 # CASTILLO_ECE2112_PA_3
-## **Description**: This Repository contains two Python files that mainly revolves around Python Data Analysis
+## **Description**: This Repository contains two Python files that mainly revolves around Python Data Analysis.
 #### Created by: CASTILLO, Aurabella Macy F.
 #### I am a 2nd Year Electronics Engineering Student from the University of Santo Tomas.
 #### This is my 3rd Experiment-Programming Assignment for ECE2112 (Advance Programming).
